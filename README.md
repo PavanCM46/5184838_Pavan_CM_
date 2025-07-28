@@ -2,6 +2,5 @@
 
 ## Agile Certification
 
-![Agile Certificate](./SDLC/5184838_Agile_Certification.JPG)
 
 ![GIT Certificate](./GIT/5184838_GIT_Certification.JPG)
