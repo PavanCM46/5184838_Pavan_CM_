@@ -12,5 +12,7 @@
 ![Linux History](./Linux/5184838_Linux6.JPG)
 ![Linux History](./Linux/5184838_Linux7.JPG)
 ![Linux History](./Linux/5184838_Linux8.JPG)
+![C certificate](./C-Programming/5184838_Sololearn_Introduction_To_C.JPG)
+![C certificate](./C-Programming/5184838_Sololearn_Intermediate_C.JPG)
 
 
