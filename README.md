@@ -44,5 +44,9 @@
 ![Testing_case_1](./Unit_Testing/Unit_testing_1/Unit_Testing_case_1.JPG)
 **Unit Testing Using Unity -Test case 2**
 ![Testing_case_2](./Unit_Testing/Unit_testing_2/Unit_testing_case_2.JPG)
+**Unit Testing Using Unity -Test case 3**
+![Testing_case_3](./Unit_Testing/Unit_testing_3/Unit_test_case_3a.JPG)
+![Testing_case_3](./Unit_Testing/Unit_testing_3/Unit_test_case_3b.JPG)
+
 
 
