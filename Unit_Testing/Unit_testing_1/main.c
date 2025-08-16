@@ -26,7 +26,7 @@ int main(){
     c=sum(a,b);
     printf("The sum of two number is %d\n",c);
     c=multiply(a,b);
-    printf("the square of the number is %d\n",c);
+    printf("the product of the number is %d\n",c);
 
 
     UNITY_BEGIN();
