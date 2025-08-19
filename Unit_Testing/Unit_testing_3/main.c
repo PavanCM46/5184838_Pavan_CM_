@@ -27,10 +27,10 @@ void test_max(){
 
 }
 void test_min(){
-    TEST_IGNORE();
+    //TEST_IGNORE();
     TEST_ASSERT_EQUAL(3,is_min(10,3));
     TEST_ASSERT_EQUAL_INT(5,is_min(10,5));
-    TEST_ASSERT_LESS_THAN(3,is_min(2,1));
+    TEST_ASSERT_LESS_THAN(3,is_min(4,3));
     TEST_ASSERT_LESS_OR_EQUAL(5,is_min(5,10));
 
 }

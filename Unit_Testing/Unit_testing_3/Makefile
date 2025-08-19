@@ -1,4 +1,4 @@
-object.0: main.c functions.c unity.c
+object.o: main.c functions.c unity.c
 	gcc $^ -c
 out: main.o functions.o unity.o
 	gcc $^ -o out.exe

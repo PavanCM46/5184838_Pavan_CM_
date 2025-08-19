@@ -6,11 +6,11 @@ void setUp(){}
 void tearDown(){}
 
 void test_leap(){
-    TEST_ASSERT_EQUAL(1,is_leapyear(2000));
-    TEST_ASSERT_EQUAL(1,is_leapyear(1997));
+    TEST_ASSERT_TRUE(is_leapyear(2000));
+    TEST_ASSERT_FALSE(is_leapyear(1997));
     }
 void test_nonleap(){
-  TEST_ASSERT_NOT_EQUAL(1,is_leapyear(1999));
+  TEST_ASSERT_FALSE(is_leapyear(1999));
 }
 
 int main(){
