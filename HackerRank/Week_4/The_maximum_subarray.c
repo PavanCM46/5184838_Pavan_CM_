@@ -54,7 +54,7 @@ int* maxSubarray(int a, int* b, int* c) {
     int d = b[0];
     int e = b[0];
     int f = b[0];
-    int g = b[0];
+    int g = (b[0] > 0 ? b[0] : 0);
 
     int h = 1;
     while (h < a) {
@@ -76,16 +76,16 @@ int* maxSubarray(int a, int* b, int* c) {
     }
 
     int* r = malloc(2 * sizeof(int));
+    r[0] = d;
     if (g > 0) {
-        r[0] = d;
         r[1] = g;
     } else {
-        r[0] = d;
         r[1] = f;
     }
     *c = 2;
     return r;
 }
+
 
 
 int main()
